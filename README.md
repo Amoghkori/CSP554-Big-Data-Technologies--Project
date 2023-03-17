@@ -1,4 +1,4 @@
-CSP554 : Big Data Technologies
+#CSP554 : Big Data Technologies
 
 Project Members:
 
@@ -8,9 +8,8 @@ Kajol Tanesh Shah A20496724
 
 Vikas Pathak A20460927
 
-Illinois Institute of Technology
 
-WORKING WITH APACHE SPARK MLLIB
+# Title : WORKING WITH APACHE SPARK MLLIB
 
 Problem statement: Transportation services have become core community necessities for both daily activities and travel. The aim of our project is to predict the selling price of a car based on the given features by using Big Data Technologies. For this, we have applied different machine learning algorithms to our dataset by using Apache Spark and MLlib. We would like to estimate future pricing by applying one of the MLlib algorithms and providing visual outputs of price changes using Tableau software in the future.
 
